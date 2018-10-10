@@ -1,1 +1,2 @@
-# Operatiing_System
+# Operating-System
+Lab Practicals of Operating System
